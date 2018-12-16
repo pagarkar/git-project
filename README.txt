@@ -1,6 +1,5 @@
 This is first git text.
-hello how are you i like git very much.ajsdgjsc
-Kiran my mom
+hello i like git very much.ajsdgjsc
 sjgfjdigufhk
 wsajfhdjkfvdkhfv
 index.html
